@@ -6,7 +6,7 @@ import 'dart:core';
  * getUserMedia sample
  */
 class VideoCallSample extends StatefulWidget {
-  static const routeName = '/vcall-sample';
+  static const routeName = '/vcallSample';
 
   @override
   _VideoCallSampleState createState() => _VideoCallSampleState();
